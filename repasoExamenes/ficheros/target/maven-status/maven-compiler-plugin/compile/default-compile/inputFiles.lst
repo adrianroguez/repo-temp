@@ -1,0 +1,11 @@
+/home/portablepc/Escritorio/repasoExamenes/ficheros/src/main/java/es/adrianroguez/service/PersonaService.java
+/home/portablepc/Escritorio/repasoExamenes/ficheros/src/main/java/es/adrianroguez/model/Persona.java
+/home/portablepc/Escritorio/repasoExamenes/ficheros/src/main/java/es/adrianroguez/util/FormatConverter.java
+/home/portablepc/Escritorio/repasoExamenes/ficheros/src/main/java/es/adrianroguez/PersonaRepositoryJpaAdapter.java
+/home/portablepc/Escritorio/repasoExamenes/ficheros/src/main/java/es/adrianroguez/Main.java
+/home/portablepc/Escritorio/repasoExamenes/ficheros/src/main/java/es/adrianroguez/repository/XmlPersonaRepository.java
+/home/portablepc/Escritorio/repasoExamenes/ficheros/src/main/java/es/adrianroguez/repository/jpa/PersonaJpaRepository.java
+/home/portablepc/Escritorio/repasoExamenes/ficheros/src/main/java/es/adrianroguez/repository/JsonPersonaRepository.java
+/home/portablepc/Escritorio/repasoExamenes/ficheros/src/main/java/es/adrianroguez/repository/interfaces/PersonaRepository.java
+/home/portablepc/Escritorio/repasoExamenes/ficheros/src/main/java/es/adrianroguez/repository/jpa/PersonaEntity.java
+/home/portablepc/Escritorio/repasoExamenes/ficheros/src/main/java/es/adrianroguez/repository/interfaces/mongoDB/DetallePersonaDocument.java

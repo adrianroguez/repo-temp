@@ -1,0 +1,10 @@
+/home/portablepc/Escritorio/crud-mongo/src/main/java/com/docencia/personas/model/Rol.java
+/home/portablepc/Escritorio/crud-mongo/src/main/java/com/docencia/personas/repository/PersonaRepository.java
+/home/portablepc/Escritorio/crud-mongo/src/main/java/com/docencia/personas/services/IPersonaService.java
+/home/portablepc/Escritorio/crud-mongo/src/main/java/com/docencia/personas/services/IRolesService.java
+/home/portablepc/Escritorio/crud-mongo/src/main/java/com/docencia/personas/model/Persona.java
+/home/portablepc/Escritorio/crud-mongo/src/main/java/com/docencia/personas/model/Direccion.java
+/home/portablepc/Escritorio/crud-mongo/src/main/java/com/docencia/personas/services/implementation/RolesService.java
+/home/portablepc/Escritorio/crud-mongo/src/main/java/com/docencia/personas/repository/RolRepository.java
+/home/portablepc/Escritorio/crud-mongo/src/main/java/com/docencia/personas/PersonasApplication.java
+/home/portablepc/Escritorio/crud-mongo/src/main/java/com/docencia/personas/services/implementation/PersonaService.java

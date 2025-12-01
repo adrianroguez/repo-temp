@@ -1,0 +1,4 @@
+com/docencia/personas/services/IRolesService.class
+com/docencia/personas/services/implementation/RolesService.class
+com/docencia/personas/repository/RolRepository.class
+com/docencia/personas/model/Rol.class
